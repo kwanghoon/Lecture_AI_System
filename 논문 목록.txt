@@ -24,3 +24,16 @@
 - Data Movement Is All You Need: A Case Study on Optimizing Transformers
 - Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning
 - GSPMD: General and Scalable Parallelization for ML Computation Graphs
+
+[GPU 개념 소개]
+ - The GPU Computing Era
+ - NVIDIA Tesla: A Unified Graphics and Computing Architecture (SM, warp, SIMT, 메모리 구조)
+ - Volta: Performance and Programmability (Tensor Core, 새로운 SM 구조, mixed-precision matrix multiplication, NVLink, L1 cache와 shared memory 통합, cooperative groups, 독립적인 thread scheduling)
+ - NVIDIA Hopper H100 GPU: Scaling Performance (4세대 Tensor Core, FP8과 트랜스포머 엔진, Tensor Memory Accelerator (TMA), thread-block cluster,  비동기 메모리 전송, distributed shared memory, NVLink와 다중 GPU 확장, 대규모 데이터센터 실행)
+
+[GPU Survey 논문]
+ - A Survey of General-Purpose Computation on Graphics Hardware (GPGPU 역사적 survey)
+ - A Survey of CPU-GPU Heterogeneous Computing Techniques CPU-GPU 이기종 시스템)
+ - A Survey of Methods for Analyzing and Improving GPU Energy Efficiency 
+ - A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms (
+ - Survey and Benchmarking of Machine Learning Accelerators (GPU, GPU, FPGA, ASIC 비교)
