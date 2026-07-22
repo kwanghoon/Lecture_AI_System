@@ -10,4 +10,6 @@
 - Data Movement Is All You Need: A Case Study on Optimizing Transformers
 - DeepCuts: A Deep Learning Optimization Framework for Versatile GPU Workloads
 - The deep learning compiler: A comprehensive survey
+- TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs
 - Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning
+- GSPMD: General and Scalable Parallelization for ML Computation Graphs
