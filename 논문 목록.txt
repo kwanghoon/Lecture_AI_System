@@ -1,0 +1,13 @@
+논문 목록
+- Triton: an intermediate language and compiler for tiled neural network computations.
+- Operator Fusion in XLA: Analysis and Evaluation
+- TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
+- Glow: Graph Lowering Compiler Techniques for Neural Networks
+- MLIR: Scaling Compiler Infrastructure for Domain Specific Computation
+- Composable and Modular Code Generation in MLIR: A Structured and Retargetable Approach to Tensor Compiler Construction
+- TensorFlow: A system for large-scale machine learning
+- PyTorch: an imperative style, high-performance deep learning library
+- Data Movement Is All You Need: A Case Study on Optimizing Transformers
+- DeepCuts: A Deep Learning Optimization Framework for Versatile GPU Workloads
+- The deep learning compiler: A comprehensive survey
+- Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning
