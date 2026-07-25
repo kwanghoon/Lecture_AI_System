@@ -30,6 +30,7 @@
  - NVIDIA Tesla: A Unified Graphics and Computing Architecture (SM, warp, SIMT, 메모리 구조)
  - Volta: Performance and Programmability (Tensor Core, 새로운 SM 구조, mixed-precision matrix multiplication, NVLink, L1 cache와 shared memory 통합, cooperative groups, 독립적인 thread scheduling)
  - NVIDIA Hopper H100 GPU: Scaling Performance (4세대 Tensor Core, FP8과 트랜스포머 엔진, Tensor Memory Accelerator (TMA), thread-block cluster,  비동기 메모리 전송, distributed shared memory, NVLink와 다중 GPU 확장, 대규모 데이터센터 실행)
+ - Sparsity-Aware and Re-configurable NPU Architecture for Samsung Flagship Mobile SoC 
 
 [GPU Survey 논문]
  - A Survey of General-Purpose Computation on Graphics Hardware (GPGPU 역사적 survey)
