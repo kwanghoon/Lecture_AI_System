@@ -38,3 +38,4 @@
  - A Survey of Methods for Analyzing and Improving GPU Energy Efficiency 
  - A Survey on Deep Learning Hardware Accelerators for Heterogeneous HPC Platforms (
  - Survey and Benchmarking of Machine Learning Accelerators (GPU, GPU, FPGA, ASIC 비교)
+ - Sze, Vivienne, Yu-Hsin Chen, Tien-Ju Yang, and Joel S. Emer. 2017. “Efficient Processing of Deep Neural Networks: A Tutorial and Survey.” Proceedings of the IEEE 105 (12): 2295–329. https://doi.org/10.1109/jproc.2017.2761740.
