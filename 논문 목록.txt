@@ -1,29 +1,9 @@
 논문 목록
 
-[Deep learning Compilers and Runtime systems]
-- The deep learning compiler: A comprehensive survey
-- Triton: an intermediate language and compiler for tiled neural network computations.
-- XLA: Operator Fusion in XLA: Analysis and Evaluation
-- TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
-- Glow: Graph Lowering Compiler Techniques for Neural Networks
-- IREE/MLIR:
-  * MLIR: Scaling Compiler Infrastructure for Domain Specific Computation
-  * Composable and Modular Code Generation in MLIR: A Structured and Retargetable Approach to Tensor Compiler Construction
-  * TinyIREE: An ML Execution Environment for Embedded Systems from Compilation to Deployment
-  * Towards a High-Performance AI Compiler with Upstream MLIR
-
 [Frameworks]
 - TensorFlow: A system for large-scale machine learning
 - PyTorch: an imperative style, high-performance deep learning library
 - DeepCuts: A Deep Learning Optimization Framework for Versatile GPU Workloads
-
-[Benchmarks]
-- TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs
-
-[Distributed runtime systems for deep learning compilers]
-- Data Movement Is All You Need: A Case Study on Optimizing Transformers
-- Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning
-- GSPMD: General and Scalable Parallelization for ML Computation Graphs
 
 [GPU 개념 소개]
  - The GPU Computing Era
@@ -40,5 +20,25 @@
  - Survey and Benchmarking of Machine Learning Accelerators (GPU, GPU, FPGA, ASIC 비교)
  - Sze, Vivienne, Yu-Hsin Chen, Tien-Ju Yang, and Joel S. Emer. 2017. “Efficient Processing of Deep Neural Networks: A Tutorial and Survey.” Proceedings of the IEEE 105 (12): 2295–329. https://doi.org/10.1109/jproc.2017.2761740.
 
+[Benchmarks]
+- TpuGraphs: A Performance Prediction Dataset on Large Tensor Computational Graphs
+
 [Book]
  - Introduction to Machine Learning Systems (Part III Optimization: III-2 Model Compression, III-3 Hardware Acceleration)
+
+[Deep learning Compilers and Runtime systems]
+- The deep learning compiler: A comprehensive survey
+- Triton: an intermediate language and compiler for tiled neural network computations.
+- XLA: Operator Fusion in XLA: Analysis and Evaluation
+- TVM: An Automated End-to-End Optimizing Compiler for Deep Learning
+- Glow: Graph Lowering Compiler Techniques for Neural Networks
+- IREE/MLIR:
+  * MLIR: Scaling Compiler Infrastructure for Domain Specific Computation
+  * Composable and Modular Code Generation in MLIR: A Structured and Retargetable Approach to Tensor Compiler Construction
+  * TinyIREE: An ML Execution Environment for Embedded Systems from Compilation to Deployment
+  * Towards a High-Performance AI Compiler with Upstream MLIR
+
+[Distributed runtime systems for deep learning compilers]
+- Data Movement Is All You Need: A Case Study on Optimizing Transformers
+- Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning
+- GSPMD: General and Scalable Parallelization for ML Computation Graphs
